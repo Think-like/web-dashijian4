@@ -19,5 +19,5 @@ iframe{
         height: 100%;
 }
 a{
-    translate: none !important;
+    transition: none !important;
 }
